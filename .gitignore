@@ -1,0 +1,3 @@
+videos/*
+!videos/.gitkeep
+.DS_Store
